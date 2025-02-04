@@ -13,3 +13,7 @@ ul {
   list-style: none;
   height: 1cm;
 }
+div {
+  display: flex;
+  justify-content: center;
+}
